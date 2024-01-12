@@ -5,7 +5,7 @@ import MyGoal from './components/MyGoal';
 export default function App() {
   return (
     <View style={styles.container}>
-
+      <Text>HELLOOOOOO</Text>
       <MyGoal />
       {/* <Text style={styles.text}>Namaig Khuslen gedeg.Bi 15 nastai."Codely academy"-n suragch.Minii anhnii app-n sanaa bol:
      
@@ -13,7 +13,7 @@ export default function App() {
       <Text style = { styles.text}>
       Tailbar: Eniig Dance Floor gedeg ba bujigledeg huuhduuded mash heregtei.Bujigiin bairlaliig olj
       ugdug app yum.
-       s</Text> */}s
+       s</Text> */}
     </View>
   );
 }
